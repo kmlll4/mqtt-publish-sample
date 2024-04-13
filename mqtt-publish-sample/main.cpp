@@ -15,7 +15,7 @@
 #include <ctime>
 #include "mqtt/async_client.h"
 
-#pragma comment(lib, "Ws2_32.lib")
+// #pragma comment(lib, "Ws2_32.lib")
 
 
 using namespace std;
